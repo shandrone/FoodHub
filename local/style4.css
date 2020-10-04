@@ -1,0 +1,85 @@
+body {
+  
+  text-align:center; 
+  background-image:url(food.jpg);
+  background-position: ;
+  background-repeat: no-repeat;
+
+}
+
+
+.logo{max-height:275px;
+    max-width:300px;
+	border-bottom:8px dotted green;
+	padding:16px;
+	margin-bottom:80px}
+	
+
+td{
+	padding-top:16px;
+   padding-bottom:16px;
+   padding-left:22px;
+   padding-right:22px;
+   background-color: rgba(230, 230, 230, 0.5);
+   font-size: 22px;
+   font-family: Trebuchet MS,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Tahoma,sans-serif;
+   color:black;}
+   
+  h1{
+	font-size: 60px;  
+	font-family: Trebuchet MS,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Tahoma,sans-serif;  
+	color: black;
+	background-color:rgba(230, 230, 230, .7);
+	margin-top:80px;
+	margin-bottom:70px;
+	
+  } 
+  th{
+	  font-size: 35px;
+	  font-family: Trebuchet MS,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Tahoma,sans-serif;
+	  color: white;
+		background-color:rgba(0, 51, 102, .7);
+		margin-top:80px;
+		margin-bottom:70px;
+  }
+ul{
+margin:0px; padding:0px;
+}
+ul li a{
+text-decoration:none;	
+color:white;
+display: block;	
+}
+ul li{
+	float:left;
+	width:300px;
+	height:40px;
+	background-color:rgba(0, 0, 0, .7);
+	font-size:25px;
+	font-family: Trebuchet MS,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Tahoma,sans-serif;
+	line-height:40px;
+	text-align: center;
+	border: 1px solid black;
+	margin-bottom: 50px;
+}
+
+ul li a:hover{
+	
+	background-color: red;
+}
+ul li ul li{
+	display:none;
+}
+ul li:hover ul li{
+	
+	display:block;
+}
+.t{
+	padding: 15px 30px; 
+	color: #fff;
+	border-radius: 4px;
+	border:none;
+	background-color: #33cccc;
+	border-bottom:4px solid #00ffff;
+	margin-bottom: 20px;
+}	   

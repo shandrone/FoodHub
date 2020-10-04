@@ -1,0 +1,62 @@
+body{
+	
+	background-image:url(food.jpg);
+	background-repeat: no-repeat;
+}
+lt (click "Generate" to refresh)
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;border-color:#999;border:none}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 17px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#F7FDFA;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 17px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#999;color:#fff;background-color:#26ADE4;}
+.tg .tg-ld1y{font-weight:bold;font-size:36px;font-family:Tahoma, Geneva, sans-serif !important;;background-color:#343434;text-align:center}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-2a9s{font-size:20px;font-family:Tahoma, Geneva, sans-serif !important;;background-color:#343434;text-align:center}
+.tg .tg-m698{font-weight:bold;font-size:36px;font-family:Tahoma, Geneva, sans-serif !important;;background-color:#343434}
+.tg .tg-obex{font-family:Tahoma, Geneva, sans-serif !important;;background-color:#343434}
+.tg .tg-j0tj{background-color:#D2E4FC;text-align:center;vertical-align:top}
+
+.tg  {border-collapse:collapse;border-spacing:0;border-color:#999;border:none}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 17px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#F7FDFA;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 17px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#999;color:#fff;background-color:#26ADE4;}
+.tg .tg-pgrs{font-weight:bold;font-size:26px;font-family:"Arial Black", Gadget, sans-serif !important;;text-align:center;vertical-align:top}
+.tg .tg-ld1y{font-weight:bold;font-size:36px;font-family:Tahoma, Geneva, sans-serif !important;;background-color:#343434;text-align:center}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-6k2t{background-color:#D2E4FC;vertical-align:top}
+.tg .tg-yw4l{vertical-align:top}
+.tg .tg-j0tj{background-color:#D2E4FC;text-align:center;vertical-align:top}
+.tg .tg-mpef{font-weight:bold;font-size:36px;font-family:"Arial Black", Gadget, sans-serif !important;;text-align:center;vertical-align:top}
+</style>
+ul{
+margin:0px; padding:0px;
+}
+ul li a{
+text-decoration:none;	
+color:white;
+display: block;	
+}
+ul li{
+	float:left;
+	width:400px;
+	height:40px;
+	background-color:black;
+	font-size:25px;
+	font-family: Estrangelo Edessa;
+	line-height:40px;
+	text-align: center;
+	opacity:.7;
+	border: 1px solid #285189;
+	
+}
+
+ul li a:hover{
+	
+	background-color: red;
+}
+ul li ul li{
+	display:none;
+}
+ul li:hover ul li{
+	
+	display:block;
+}

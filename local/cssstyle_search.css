@@ -1,0 +1,58 @@
+body{
+	
+	background-image:url(food.jpg);
+	background-repeat: no-repeat;
+
+}
+h2{
+	text-align: center;
+	font-size:40px;
+	background-color:rgba(0, 51, 102, 0.7);
+	opacity:0.7;
+	color: white;
+	font-family:Calibri;
+}
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;border-color:#999;border:none;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 17px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#F7FDFA;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 17px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#999;color:#fff;background-color:#26ADE4;}
+.tg .tg-dyfk{font-size:40px;font-family:"Lucida Console", Monaco, monospace !important;;background-color:#c0c0c0;color:#000000;text-align:center;vertical-align:top}
+.tg .tg-4vd5{font-size:40px;font-family:"Lucida Console", Monaco, monospace !important;;background-color:#ffffff;color:#000000;text-align:center;vertical-align:top}
+.tg .tg-pxng{font-size:40px;font-family:"Lucida Console", Monaco, monospace !important;;background-color:#c0c0c0;color:#000000;text-align:center;vertical-align:top}
+.tg .tg-9bjq{font-size:40px;font-family:"Lucida Console", Monaco, monospace !important;;background-color:#ffffff;color:#000000;text-align:center;vertical-align:top}
+.tg .tg-kixb{background-color:#ffffff;color:#000000;vertical-align:top}
+</style>
+ul{
+margin:0px; padding:0px;
+}
+ul li a{
+text-decoration:none;	
+color:white;
+display: block;	
+}
+ul li{
+	float:left;
+	width:300px;
+	height:40px;
+	background-color:black;
+	font-size:25px;
+	font-family: Estrangelo Edessa;
+	line-height:40px;
+	text-align: center;
+	opacity:.7;
+	border: 1px solid #285189;
+	
+}
+
+ul li a:hover{
+	
+	background-color: red;
+}
+ul li ul li{
+	display:none;
+	
+}
+ul li:hover ul li{
+	
+	display:block;
+}

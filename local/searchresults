@@ -1,0 +1,62 @@
+<?php
+?>
+
+<!DOCTYPE html>
+<html>
+<head>
+<title> FoodHub:: Search Results || Gulshan</title> 
+<style type="text/css">
+#search{
+padding:7px;
+width:300px;
+margin-top:30px;
+margin-left:900px;
+line-height:30px;
+}
+#submit{
+	padding: 10px 20px; 
+	color: #fff;
+	border-radius: 3px;
+	border:none;
+	background-color: #33cccc;
+	border-bottom:3px solid #00ffff;
+	margin-bottom: 10px;
+	margin-left:900px
+}
+
+
+</style>
+<link href="cssstyle_search.css" rel="stylesheet" type="text/css"></link>
+</head>
+<body>
+<center><img src="foodhub1.png" height="20%" width="20%" alt=""></center>
+<div>
+<ul>
+<li><a href="#">HOME </a> </li>
+<li><a href="#"><a href="about_us.html">ABOUT US </a></li>
+<li><a href="#"><a href="contact_us.html">CONTACT US </a> </li>
+</ul>
+</div>
+
+<form>
+<input type "text" placeholder="Search By Resturaunts" maxlength="20" id="search">
+<input type "submit" value="GO" id="submit">
+</form>
+
+<h2>Gulshan</h2><br>
+
+<table class="tg">
+  <tr>
+    <th class="tg-4vd5">Butlers Chocolate Cafe<br></th>
+    <th class="tg-pxng"><a href="Menu.html"><img src="Butlers.jpg" height="8%" width="8%" alt=""></a></th>
+  </tr>
+  <tr>
+    <td class="tg-dyfk">Barcode Cafe<br></td>
+    <td class="tg-9bjq"><a href="Menu.html"><img src="barcode.png" height="8%" width="8%" alt=""></a></td>
+  </tr>
+  <tr>
+    <td class="tg-4vd5">Gloria Jeans<br></td>
+    <td class="tg-pxng"><a href="Menu.html"><img src="GloriaJeans.png" height="8%" width="8%" alt=""></a></td>
+  </tr>
+</table>
+</html>

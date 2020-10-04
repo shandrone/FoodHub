@@ -1,0 +1,36 @@
+body{
+		background-image:url(food.jpg);
+	}
+
+ul{
+margin:0px; padding:0px;
+}
+ul li a{
+text-decoration:none;	
+color:white;
+display: block;	
+}
+ul li{
+	float:left;
+	width:300px;
+	height:40px;
+	background-color:black;
+	font-size:25px;
+	font-family: Estrangelo Edessa;
+	line-height:40px;
+	text-align: center;
+	opacity:.7;
+	border: 1px solid #285189;
+	
+}
+ul li a:hover{
+	
+	background-color: red;
+}
+ul li ul li{
+	display:none;
+}
+ul li:hover ul li{
+	
+	display:block;
+}
